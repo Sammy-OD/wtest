@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wtest/static/css/main.36b0df43.css",
+    "main.js": "/wtest/static/js/main.206e705a.js",
+    "static/js/787.8210bd33.chunk.js": "/wtest/static/js/787.8210bd33.chunk.js",
+    "static/media/Dress.jpg": "/wtest/static/media/Dress.c2681e00101a9d43cb40.jpg",
+    "static/media/skripp.jpg": "/wtest/static/media/skripp.c83be58dd3403a0e7377.jpg",
+    "static/media/trend.jpg": "/wtest/static/media/trend.92656e4c8836311780e0.jpg",
+    "static/media/Group6.jpg": "/wtest/static/media/Group6.3e110b91dd7e9b90034c.jpg",
+    "static/media/Group5.jpg": "/wtest/static/media/Group5.16d1b4e6b3fde08fa998.jpg",
+    "static/media/Group7.jpg": "/wtest/static/media/Group7.f272eb06b1bf8b65a005.jpg",
+    "static/media/revicons.eot": "/wtest/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/wtest/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/wtest/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/wtest/index.html",
+    "main.36b0df43.css.map": "/wtest/static/css/main.36b0df43.css.map",
+    "main.206e705a.js.map": "/wtest/static/js/main.206e705a.js.map",
+    "787.8210bd33.chunk.js.map": "/wtest/static/js/787.8210bd33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b0df43.css",
+    "static/js/main.206e705a.js"
+  ]
+}

@@ -1,8 +1,15 @@
 {
   "files": {
-    "main.css": "/wtest/static/css/main.8e88795d.css",
-    "main.js": "/wtest/static/js/main.be8f9a15.js",
+    "main.css": "/wtest/static/css/main.28956173.css",
+    "main.js": "/wtest/static/js/main.83265ef3.js",
     "static/js/787.8210bd33.chunk.js": "/wtest/static/js/787.8210bd33.chunk.js",
+    "static/media/Mask.jpg": "/wtest/static/media/Mask.03d482774d1b2b670214.jpg",
+    "static/media/aboutImg2.jpg": "/wtest/static/media/aboutImg2.e2e38dea3f18c9d5f352.jpg",
+    "static/media/aboutHeaderImg.jpg": "/wtest/static/media/aboutHeaderImg.c301b8aaad50acb77a43.jpg",
+    "static/media/aboutImg1.jpg": "/wtest/static/media/aboutImg1.dd67d2b6da01e3721891.jpg",
+    "static/media/serviceImg1.jpg": "/wtest/static/media/serviceImg1.010444f91b1ea7526bb8.jpg",
+    "static/media/contactImg.jpg": "/wtest/static/media/contactImg.2e45b75e265c9d1094a4.jpg",
+    "static/media/serviceImg2.jpg": "/wtest/static/media/serviceImg2.a6e42e34256f06c6c0ec.jpg",
     "static/media/Dress.jpg": "/wtest/static/media/Dress.c2681e00101a9d43cb40.jpg",
     "static/media/skripp.jpg": "/wtest/static/media/skripp.c83be58dd3403a0e7377.jpg",
     "static/media/trend.jpg": "/wtest/static/media/trend.92656e4c8836311780e0.jpg",
@@ -13,12 +20,12 @@
     "static/media/revicons.ttf": "/wtest/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/wtest/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/wtest/index.html",
-    "main.8e88795d.css.map": "/wtest/static/css/main.8e88795d.css.map",
-    "main.be8f9a15.js.map": "/wtest/static/js/main.be8f9a15.js.map",
+    "main.28956173.css.map": "/wtest/static/css/main.28956173.css.map",
+    "main.83265ef3.js.map": "/wtest/static/js/main.83265ef3.js.map",
     "787.8210bd33.chunk.js.map": "/wtest/static/js/787.8210bd33.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e88795d.css",
-    "static/js/main.be8f9a15.js"
+    "static/css/main.28956173.css",
+    "static/js/main.83265ef3.js"
   ]
 }

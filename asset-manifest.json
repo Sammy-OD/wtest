@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/wtest/static/css/main.0048c51a.css",
-    "main.js": "/wtest/static/js/main.5487109b.js",
+    "main.css": "/wtest/static/css/main.5831276e.css",
+    "main.js": "/wtest/static/js/main.1619712f.js",
     "static/media/Mask.jpg": "/wtest/static/media/Mask.03d482774d1b2b670214.jpg",
     "static/media/aboutImg2.jpg": "/wtest/static/media/aboutImg2.e2e38dea3f18c9d5f352.jpg",
     "static/media/aboutHeaderImg.jpg": "/wtest/static/media/aboutHeaderImg.c301b8aaad50acb77a43.jpg",
     "static/media/aboutImg1.jpg": "/wtest/static/media/aboutImg1.dd67d2b6da01e3721891.jpg",
     "static/media/serviceImg1.jpg": "/wtest/static/media/serviceImg1.010444f91b1ea7526bb8.jpg",
-    "static/media/contactImg.jpg": "/wtest/static/media/contactImg.2e45b75e265c9d1094a4.jpg",
     "static/media/serviceImg2.jpg": "/wtest/static/media/serviceImg2.a6e42e34256f06c6c0ec.jpg",
     "static/media/Dress.jpg": "/wtest/static/media/Dress.c2681e00101a9d43cb40.jpg",
     "static/media/skripp.jpg": "/wtest/static/media/skripp.c83be58dd3403a0e7377.jpg",
@@ -19,11 +18,11 @@
     "static/media/revicons.ttf": "/wtest/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/wtest/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/wtest/index.html",
-    "main.0048c51a.css.map": "/wtest/static/css/main.0048c51a.css.map",
-    "main.5487109b.js.map": "/wtest/static/js/main.5487109b.js.map"
+    "main.5831276e.css.map": "/wtest/static/css/main.5831276e.css.map",
+    "main.1619712f.js.map": "/wtest/static/js/main.1619712f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0048c51a.css",
-    "static/js/main.5487109b.js"
+    "static/css/main.5831276e.css",
+    "static/js/main.1619712f.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wtest/static/css/main.5831276e.css",
-    "main.js": "/wtest/static/js/main.1619712f.js",
+    "main.css": "/wtest/static/css/main.a4a7ba69.css",
+    "main.js": "/wtest/static/js/main.89649a7d.js",
     "static/media/Mask.jpg": "/wtest/static/media/Mask.03d482774d1b2b670214.jpg",
     "static/media/aboutImg2.jpg": "/wtest/static/media/aboutImg2.e2e38dea3f18c9d5f352.jpg",
     "static/media/aboutHeaderImg.jpg": "/wtest/static/media/aboutHeaderImg.c301b8aaad50acb77a43.jpg",
@@ -18,11 +18,11 @@
     "static/media/revicons.ttf": "/wtest/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/wtest/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/wtest/index.html",
-    "main.5831276e.css.map": "/wtest/static/css/main.5831276e.css.map",
-    "main.1619712f.js.map": "/wtest/static/js/main.1619712f.js.map"
+    "main.a4a7ba69.css.map": "/wtest/static/css/main.a4a7ba69.css.map",
+    "main.89649a7d.js.map": "/wtest/static/js/main.89649a7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5831276e.css",
-    "static/js/main.1619712f.js"
+    "static/css/main.a4a7ba69.css",
+    "static/js/main.89649a7d.js"
   ]
 }
